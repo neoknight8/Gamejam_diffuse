@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BFD454BD-244D-2BAD-9D5F-0D86CEDFEAD9}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MaterialHolder.cs" Line="13" Column="19" />
+      <File FileName="Assets/Scripts/Panel.cs" Line="14" Column="5" />
+      <File FileName="Assets/Scripts/Player.cs" Line="61" Column="1" />
+      <File FileName="Assets/Scripts/CursorManager.cs" Line="78" Column="1" />
+      <File FileName="Assets/Scripts/PanelsManager.cs" Line="154" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="116" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
